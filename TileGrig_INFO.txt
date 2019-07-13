@@ -1,0 +1,30 @@
+TEXTURE
+0- Floor
+1- Wall
+2- Fire
+3- Cross
+4- Ambulance
+5- Helped
+6- Fire unique
+7- Ambulance: 1 pacient
+8- Ambulance: 2 pacients (go out)
+
+Moving
+1- Down
+2- Right
+3- Up
+4- Left
+
+People
+10- Fireman
+20- Refugiado
+30- Victime
+60- Fireman moving
+
+Number
+40 - 49
+80 - 89
+
+Phrases
+51 - 59
+71 - 76
